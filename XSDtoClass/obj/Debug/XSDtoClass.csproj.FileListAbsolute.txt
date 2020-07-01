@@ -1,0 +1,7 @@
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\bin\Debug\XSDtoClass.exe.config
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\bin\Debug\XSDtoClass.exe
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\bin\Debug\XSDtoClass.pdb
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.csprojAssemblyReference.cache
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.csproj.CoreCompileInputs.cache
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.exe
+C:\Users\cris_\source\repos\XSDtoClass\XSDtoClass\obj\Debug\XSDtoClass.pdb
